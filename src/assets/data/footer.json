@@ -1,34 +1,34 @@
 {
     "AboutSession":[
         {
-            "LinkName":"GDG Jalandhar",
-            "Link":"/"
+            "LinkName":"GDG Minna",
+            "Link":"https://minna.gdg.ng"
         },
         {
             "LinkName":"Google Developers Groups",
             "Link":"https://developers.google.com/programs/community/gdg/"
         },
         {
-            "LinkName":"WomenTechamkers",
+            "LinkName":"WomenTechmakers",
             "Link":"https://www.womentechmakers.com/"
         },
         {
             "LinkName":"Become a Member",
-            "Link":"https://www.meetup.com/GDG-Jalandhar/"
+            "Link":"https://www.meetup.com/GDGMinna/"
         }
     ],
     "ChapterResourcesSession":[
         {
             "LinkName" : "Become a Sponsor",
-            "Link" : "mailto:gdgjalandhar@gmail.com"
+            "Link" : "mailto:gdgminna@gmail.com"
         },
         {
             "LinkName" : "Call for Speaker",
-            "Link" : "mailto:gdgjalandhar@gmail.com"
+            "Link" : "mailto:gdgminna@gmail.com"
         },
         {
             "LinkName" : "Media Kit",
-            "Link" : "https://drive.google.com/drive/folders/16rHDaHbuS_YApMWgJHUxygpd-A5gCkLK"
+            "Link" : "https://minna.gdg.ng/#"
         }
     ],
     "DevConsole":[
