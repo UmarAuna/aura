@@ -3,36 +3,36 @@
         "name":"Umar Saidu Auna",
         "designation":"Android Developer",
         "twitter":"https://twitter.com/umarauna",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
+        "linkedin":"https://www.linkedin.com/in/umar-saidu-065ba030",
         "github":"https://github.com/umarauna",
-        "profileImage":"",
-        "website":""
+        "profileImage":"umar.jpg",
+        "website":"https://umarauna.bitbucket.io/"
     },
     {
         "name":"Isaac Marcus",
         "designation":"Android Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "twitter":"https://twitter.com/IsaacMarcusz",
+        "linkedin":"https://www.linkedin.com/in/isaacmarcus/",
+        "github":"https://github.com/Isaac2020",
+        "profileImage":"isaac.jpeg",
+        "website":"https://about.me/isaacmarcus"
     },
     {
         "name":"Memunat Manzuma",
         "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
-        "website":""
+        "twitter":"https://twitter.com/zaarab001",
+        "linkedin":"https://www.linkedin.com/in/zaarab001",
+        "github":"https://github.com/zaarab001",
+        "profileImage":"maimuna.jpeg",
+        "website":"https://zaarab.com.ng/"
     },
     {
-        "name":"Catherine",
+        "name":"Catherine Baha Maigida",
         "designation":"Front End Developer",
-        "twitter":"https://twitter.com/vrijrajsingh",
-        "linkedin":"https://www.linkedin.com/in/vrijraj",
-        "github":"https://github.com/Vrijraj",
-        "profileImage":"",
+        "twitter":"https://twitter.com/",
+        "linkedin":"https://www.linkedin.com/in/",
+        "github":"https://github.com/Catherine1997",
+        "profileImage":"catherine.jpeg",
         "website":""
     }
 ]
