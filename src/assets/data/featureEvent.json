@@ -1,21 +1,21 @@
 {
-    "FeatureEventName":"IWD'19 Jalandhar",
-    "EventImage":"IWD.jpg",
+    "FeatureEventName":"IO Extended'19 Minna",
+    "EventImage":"banner.png",
     "EventDate":{
-        "Date":"31",
+        "Date":"22",
         "Month":"3",
         "Year":"2019"
     },
     "EventTime":{
         "StartTime":"09:00 AM",
-        "EndTime":"04:30 PM"
+        "EndTime":"03:30 PM"
     },
-    "EventVenue":"Apeejay Institute of Management Technical Campus, Rama Mandi, Hoshiarpur Road, Jalandhar",
-    "EventVenueMapLink":"https://goo.gl/maps/4Z8pminYsp42",
+    "EventVenue":"Cyprian Ekwensi Library, F-Layout (Tayi Junction), Minna Niger State.",
+    "EventVenueMapLink":"https://www.google.com/maps/place/ETF/@9.6398199,6.5425361,17z/data=!3m1!4b1!4m12!1m6!3m5!1s0x104c705d174083fb:0x767b5f3b589db1c7!2sNiger+state+book+And+Other+intellectual+Resource+Development+Agency+Minna!8m2!3d9.6369545!4d6.5447197!3m4!1s0x104c706793caf175:0x547b0a42694b14ad!8m2!3d9.6398199!4d6.5447248",
     "EventWebsite":"https://iwd.gdgjalandhar.com/",
-    "EventDescription":"International Women's Day (IWD) is marked on March 8th every year. In different regions, the focus of celebrations ranges from general respect and appreciation for women to a celebration of women's economic, political, and social achievements.",
-    "MeetupLink":"https://www.meetup.com/GDG-Jalandhar/events/253165595/",
-    "RegistrationLink":"https://docs.google.com/forms/d/e/1FAIpQLSciM-nL87uQd_it2ulou1mFv55aXqE9qSSnwL3No3fWhX8OzA/closedform",
+    "EventDescription":"Give our community members the opportunity to take part and feel the I/O experience, we will be watching all the exciting announcements from both the General Keynote as well as the Developers Keynote where latest news and updates to Google's developer products and platforms were be announced. #io19extended.",
+    "MeetupLink":"https://www.meetup.com/GDGMinna/events/260878558/",
+    "RegistrationLink":"https://www.meetup.com/GDGMinna/events/260878558/",
     "FBEventPageURL":"s"
 }
 
